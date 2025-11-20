@@ -66,7 +66,7 @@ const PrivacyPolicy = () => {
                     <p className="mb-6">
                         If you have any questions about this Privacy Policy, please contact us at:<br />
                         <strong>Email:</strong> privacy@stayreset.com<br />
-                        <strong>Phone:</strong> (555) 123-4567
+                        <strong>Phone:</strong> (437) 778-3384
                     </p>
                 </div>
             </div>

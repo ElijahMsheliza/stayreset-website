@@ -85,7 +85,7 @@ const BookingForm = () => {
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                 <div>
                                     <label className="block text-sm font-medium text-gray-700 mb-2">Phone</label>
-                                    <input type="tel" name="phone" required className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-primary-500 focus:border-transparent outline-none transition-all" placeholder="(555) 123-4567" />
+                                    <input type="tel" name="phone" required className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-primary-500 focus:border-transparent outline-none transition-all" placeholder="(437) 778-3384" />
                                 </div>
                                 <div>
                                     <label className="block text-sm font-medium text-gray-700 mb-2">Property Size</label>
@@ -150,7 +150,7 @@ const BookingForm = () => {
                     )}
 
                     <div className="mt-8 text-center">
-                        <a href="#" className="inline-flex items-center gap-2 text-green-600 font-medium hover:text-green-700 transition-colors">
+                        <a href="https://wa.me/14377783384" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-green-600 font-medium hover:text-green-700 transition-colors">
                             <MessageSquare className="h-5 w-5" />
                             Chat with us on WhatsApp
                         </a>
