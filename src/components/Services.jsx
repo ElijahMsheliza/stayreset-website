@@ -59,7 +59,7 @@ const Services = () => {
 
                     <div className="relative h-full min-h-[500px] rounded-2xl overflow-hidden shadow-2xl">
                         <img
-                            src="https://images.unsplash.com/photo-1584622050111-993a426fbf0a?q=80&w=2000&auto=format&fit=crop"
+                            src="https://images.unsplash.com/photo-1581578731117-104f2a8d46a8?q=80&w=2000&auto=format&fit=crop"
                             alt="Cleaning service"
                             className="absolute inset-0 w-full h-full object-cover"
                         />
